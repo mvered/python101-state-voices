@@ -1,9 +1,9 @@
 first_name,last_name,email,phone,zip_code,state,volunteer,favorite_animal,date_collected
-Melessa,Levane,,3047887188,25716,WV,true,"Wallaby, red-necked",4/27/2019
-Cris,Mapston,,9181055965,74184,OK,false,"Wallaby, tammar",6/4/2019
-Teresa,Greed,,,16550,PA,true,"Insect, stick",8/12/2019
-Drusi,Rapelli,,,67260,KS,false,Sugar glider,1/25/2019
-Delphine,Orth,,7042975600,28263,NC,true,Black-backed magpie,9/13/2019
+Melessa,Levane,alevane@msu.edu,13047887188,25716,WV,true,"Mallard",4/27/2019
+Cris,Mapston,illegible,918-105-5965,74184,OK,false,"Wallaby",6/4/2019
+Teresa,Greed,,,16550,PA,true,"Stick Insect",8/12/2019
+Drusi,Rapelli,,?,67260,KS,false,Cobra,1/25/2019
+Delphine,Orth,,704-297-5600,28263,NC,true,Black-backed magpie,9/13/2019
 Thaddeus,Weyland,,2094168677,95205,CA,false,,9/19/2019
 Broderick,Lancastle,,9077324878,99599,AK,,"Cockatoo, red-tailed",4/20/2019
 Giraldo,Leport,gleport7@exblog.jp,,93034,CA,true,Civet cat,8/5/2019
